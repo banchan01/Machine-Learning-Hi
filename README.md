@@ -2,12 +2,11 @@
 # MachineLearning Hi
 
 # 규칙
-ex) <br>
+<br>
 매주 화요일 21:20 ~
 
 ## 발표 내용
 ```
-ex)
 |챕터|링크|
 |---|---|
 |Chapter2|[데이터다루기](https://velog.io/@wjddmlcks22/CH02-데이터다루기)|
