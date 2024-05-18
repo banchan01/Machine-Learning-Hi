@@ -18,7 +18,7 @@
 # 멤버
 ```
 - [김민찬](https://github.com/banchan01)
-- [황우찬]
+- [황우찬](https://github.com/Hwangwoochan)
 - [박상훈]
 - [사야]
 ```
