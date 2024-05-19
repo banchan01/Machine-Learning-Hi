@@ -20,5 +20,5 @@
 - [김민찬](https://github.com/banchan01)
 - [황우찬](https://github.com/Hwangwoochan)
 - [박상훈](https://github.com/sanghunii)
-- [사야]
+- [사야](https://github.com/jans-saya)
 ```
